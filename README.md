@@ -24,20 +24,21 @@ Options
 ### Basic Usage:
   ```bash
   python split-file.py testfile.stl
-  This command splits testfile.stl into equal-sized pieces using the default settings.
   ```
+  This command splits testfile.stl into equal-sized pieces using the default settings.
 
 ### Specify Number of Splits:
 ```bash
 python split-file.py testfile.stl --xsplit 4 --ysplit 6
-This command divides testfile.stl into 4 segments along the X-axis and 6 segments along the Y-axis.
 ```
+This command divides testfile.stl into 4 segments along the X-axis and 6 segments along the Y-axis.
 
 ### Set Maximum Printable Dimensions:
 ```bash
 python split-file.py testfile.stl --max-x 200 --max-y 200
-This command calculates the necessary divisions to ensure each piece fits within a 200mm x 200mm print area.
 ```
+
+This command calculates the necessary divisions to ensure each piece fits within a 200mm x 200mm print area.
 
 ### Combine Options:
 ```
