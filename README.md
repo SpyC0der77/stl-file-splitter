@@ -78,13 +78,6 @@ If you'd like to contribute to this project, please fork the repository and subm
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-vbnet
-Copy code
-
-You can save this content into a file named `README.md` in your project's root directory. This will provide users with clear instructions on how to use your STL splitting tool, including the new features and options you've implemented.
-::contentReference[oaicite:0]{index=0}
- 
-
 
 
 
