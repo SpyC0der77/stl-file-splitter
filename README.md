@@ -69,7 +69,7 @@ python3 split-file.py inputFileName.stl [options]
 Dependencies: Ensure all required Python packages are installed. You can install them using pip:
 
 ```
-pip3 install trimesh numpy
+pip3 install trimesh numpy manifold3d
 ```
 
 ### Contributing
