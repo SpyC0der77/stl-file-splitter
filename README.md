@@ -6,6 +6,12 @@ This fork includes a Streamlit interface as well as the original command-line sc
 
 [Hosted app](https://stl-file-splitter.streamlit.app/)
 
+## Terminal demo
+
+![Recorded terminal usage](docs/images/cli-demo.gif)
+
+Recorded with [VHS](https://github.com/charmbracelet/vhs). [Recording source and instructions](docs/demo/README.md).
+
 ## Install
 
 Use a Python version compatible with the dependencies in `requirements.txt`.
